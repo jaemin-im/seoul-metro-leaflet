@@ -1,5 +1,7 @@
 # Seoul Metro Visualization using Leaflet
 
+![Implementation Image](/capture1.png)
+
 ## 구현 목표
 
 서울 지하철역의 위치 데이터와 지도 라이브러리 Leaflet을 이용하여
