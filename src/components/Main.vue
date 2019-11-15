@@ -38,6 +38,7 @@ export default {
 
 .search-bar {
   margin: 0 20px;
+  width: 50%;
   border: none;
   border-radius: 100px;
   background-color: #bbb;
