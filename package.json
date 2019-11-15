@@ -8,6 +8,8 @@
   },
   "dependencies": {
     "core-js": "^3.3.2",
+    "leaflet": "^1.5.1",
+    "leaflet.markercluster": "^1.4.1",
     "vue": "^2.6.10"
   },
   "devDependencies": {

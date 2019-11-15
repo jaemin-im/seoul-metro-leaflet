@@ -1,0 +1,2732 @@
+﻿{
+    "seoulMetro": [
+        {
+            "line": "1호선",
+            "stationName": "도봉산",
+            "dong": "도봉구 도봉동",
+            "streetAddress": "서울특별시 도봉구 도봉로 964-33",
+            "latitude": "127.0460924",
+            "longitude": "37.6893427"
+        },
+        {
+            "line": "1호선",
+            "stationName": "도봉",
+            "dong": "도봉구 도봉동",
+            "streetAddress": "서울특별시 도봉구 도봉로 170길 2",
+            "latitude": "127.045764",
+            "longitude": "37.6794492"
+        },
+        {
+            "line": "1호선",
+            "stationName": "방학",
+            "dong": "도봉구 방학동",
+            "streetAddress": "서울특별시 도봉구 도봉로 150다길 3",
+            "latitude": "127.0444231",
+            "longitude": "37.6674787"
+        },
+        {
+            "line": "1호선",
+            "stationName": "창동",
+            "dong": "도봉구 창동",
+            "streetAddress": "서울특별시 도봉구 마들로 11길 77",
+            "latitude": "127.0477009",
+            "longitude": "37.6537411"
+        },
+        {
+            "line": "1호선",
+            "stationName": "녹천",
+            "dong": "도봉구 창동",
+            "streetAddress": "서울특별시 도봉구 덕릉로 376",
+            "latitude": "127.0510081",
+            "longitude": "37.6446074"
+        },
+        {
+            "line": "1호선",
+            "stationName": "월계",
+            "dong": "노원구 월계동",
+            "streetAddress": "서울특별시 노원구 월계로 53길 40",
+            "latitude": "127.0587293",
+            "longitude": "37.6331221"
+        },
+        {
+            "line": "1호선",
+            "stationName": "광운대",
+            "dong": "노원구 월계동",
+            "streetAddress": "서울특별시 노원구 석계로 98-2",
+            "latitude": "127.0617635",
+            "longitude": "37.6238375"
+        },
+        {
+            "line": "1호선",
+            "stationName": "석계",
+            "dong": "노원구 월계동",
+            "streetAddress": "서울특별시 노원구 화랑로 341",
+            "latitude": "127.0656472",
+            "longitude": "37.6152316"
+        },
+        {
+            "line": "1호선",
+            "stationName": "신이문",
+            "dong": "동대문구 이문동",
+            "streetAddress": "서울특별시 동대문구 한천로 472",
+            "latitude": "127.0695704",
+            "longitude": "37.6018374"
+        },
+        {
+            "line": "1호선",
+            "stationName": "외대앞",
+            "dong": "동대문구 이문동",
+            "streetAddress": "서울특별시 동대문구 휘경로 27",
+            "latitude": "127.0630588",
+            "longitude": "37.5961646"
+        },
+        {
+            "line": "1호선",
+            "stationName": "회기",
+            "dong": "동대문구 휘경동",
+            "streetAddress": "서울특별시 동대문구 회기로 196",
+            "latitude": "127.0580466",
+            "longitude": "37.5898099"
+        },
+        {
+            "line": "1호선",
+            "stationName": "청량리",
+            "dong": "동대문구 전농동",
+            "streetAddress": "서울특별시 동대문구 왕산로 205",
+            "latitude": "127.0450512",
+            "longitude": "37.5800103"
+        },
+        {
+            "line": "1호선",
+            "stationName": "제기동",
+            "dong": "동대문구 제기동",
+            "streetAddress": "서울특별시 동대문구 왕산로 93",
+            "latitude": "127.0346906",
+            "longitude": "37.5784106"
+        },
+        {
+            "line": "1호선",
+            "stationName": "신설동",
+            "dong": "동대문구 신설동",
+            "streetAddress": "서울특별시 동대문구 왕산로 1",
+            "latitude": "127.0250937",
+            "longitude": "37.5760347"
+        },
+        {
+            "line": "1호선",
+            "stationName": "동묘앞",
+            "dong": "종로구 숭인동",
+            "streetAddress": "서울특별시 종로구 종로 359",
+            "latitude": "127.0167512",
+            "longitude": "37.5732522"
+        },
+        {
+            "line": "1호선",
+            "stationName": "동대문",
+            "dong": "종로구 창신동",
+            "streetAddress": "서울특별시 종로구 종로 302",
+            "latitude": "127.0111671",
+            "longitude": "37.5717669"
+        },
+        {
+            "line": "1호선",
+            "stationName": "종로5가",
+            "dong": "종로구 종로5가",
+            "streetAddress": "서울특별시 종로구 종로 216",
+            "latitude": "127.0019167",
+            "longitude": "37.5710045"
+        },
+        {
+            "line": "1호선",
+            "stationName": "종로3가",
+            "dong": "종로구 종로3가",
+            "streetAddress": "서울특별시 종로구 종로 129",
+            "latitude": "126.9920293",
+            "longitude": "37.5704368"
+        },
+        {
+            "line": "1호선",
+            "stationName": "종각",
+            "dong": "종로구 종로2가",
+            "streetAddress": "서울특별시 종로구 종로 55",
+            "latitude": "126.9832397",
+            "longitude": "37.5701803"
+        },
+        {
+            "line": "1호선",
+            "stationName": "시청",
+            "dong": "중구 태평로1가",
+            "streetAddress": "서울특별시 중구 세종대로 101",
+            "latitude": "126.9769832",
+            "longitude": "37.5654503"
+        },
+        {
+            "line": "1호선",
+            "stationName": "서울",
+            "dong": "중구 남대문로5가",
+            "streetAddress": "서울특별시 중구 세종대로 2",
+            "latitude": "126.9725546",
+            "longitude": "37.555868"
+        },
+        {
+            "line": "1호선",
+            "stationName": "남영",
+            "dong": "용산구 갈월동",
+            "streetAddress": "서울특별시 용산구 한강대로 77길 25",
+            "latitude": "126.9713325",
+            "longitude": "37.5406058"
+        },
+        {
+            "line": "1호선",
+            "stationName": "용산",
+            "dong": "용산구 한강로3가",
+            "streetAddress": "서울특별시 용산구 한강대로 23길 55",
+            "latitude": "126.9647415",
+            "longitude": "37.529662"
+        },
+        {
+            "line": "1호선",
+            "stationName": "노량진",
+            "dong": "동작구 노량진동",
+            "streetAddress": "서울특별시 동작구 노량진로 151",
+            "latitude": "126.9483698",
+            "longitude": "37.5140881"
+        },
+        {
+            "line": "1호선",
+            "stationName": "대방",
+            "dong": "영등포구 신길동",
+            "streetAddress": "서울특별시 영등포구 여의대방로 300",
+            "latitude": "126.926303",
+            "longitude": "37.5134019"
+        },
+        {
+            "line": "1호선",
+            "stationName": "신길",
+            "dong": "영등포구 신길동",
+            "streetAddress": "서울특별시 영등포구 영등포로 327",
+            "latitude": "126.9172249",
+            "longitude": "37.5170226"
+        },
+        {
+            "line": "1호선",
+            "stationName": "영등포",
+            "dong": "영등포구 영등포동",
+            "streetAddress": "서울특별시 영등포구 경인로 102길 13",
+            "latitude": "126.9057498",
+            "longitude": "37.5157656"
+        },
+        {
+            "line": "1호선",
+            "stationName": "신도림",
+            "dong": "구로구 신도림동",
+            "streetAddress": "서울특별시 구로구 새말로 117-21",
+            "latitude": "126.8910805",
+            "longitude": "37.509003"
+        },
+        {
+            "line": "1호선",
+            "stationName": "구로",
+            "dong": "구로구 구로동",
+            "streetAddress": "서울특별시 구로구 구로중앙로 174",
+            "latitude": "126.8814915",
+            "longitude": "37.502916"
+        },
+        {
+            "line": "1호선",
+            "stationName": "가산디지털단지",
+            "dong": "금천구 가산동",
+            "streetAddress": "서울특별시 금천구 벚꽃로 309",
+            "latitude": "126.8826247",
+            "longitude": "37.4815947"
+        },
+        {
+            "line": "1호선",
+            "stationName": "독산",
+            "dong": "금천구 가산동",
+            "streetAddress": "서울특별시 금천구 벚꽃로 115",
+            "latitude": "126.8895142",
+            "longitude": "37.4662004"
+        },
+        {
+            "line": "1호선",
+            "stationName": "금천구청",
+            "dong": "금천구 시흥동",
+            "streetAddress": "서울특별시 금천구 시흥대로 63길 91",
+            "latitude": "126.89475",
+            "longitude": "37.4556546"
+        },
+        {
+            "line": "1호선",
+            "stationName": "구일",
+            "dong": "구로구 구로동",
+            "streetAddress": "서울특별시 구로구 구일로 133",
+            "latitude": "126.8699205",
+            "longitude": "37.4962832"
+        },
+        {
+            "line": "1호선",
+            "stationName": "개봉",
+            "dong": "구로구 개봉동",
+            "streetAddress": "서울특별시 구로구 경인로 40길 47",
+            "latitude": "126.8591026",
+            "longitude": "37.4947085"
+        },
+        {
+            "line": "1호선",
+            "stationName": "오류동",
+            "dong": "구로구 오류동",
+            "streetAddress": "서울특별시 구로구 경인로 20길 13",
+            "latitude": "126.8446007",
+            "longitude": "37.4944107"
+        },
+        {
+            "line": "1호선",
+            "stationName": "온수",
+            "dong": "구로구 온수동",
+            "streetAddress": "서울특별시 구로구 부일로 872",
+            "latitude": "126.8240517",
+            "longitude": "37.4924435"
+        },
+        {
+            "line": "2호선",
+            "stationName": "시청",
+            "dong": "중구 태평로2가",
+            "streetAddress": "서울특별시 중구 세종대로 101",
+            "latitude": "126.9769832",
+            "longitude": "37.563551"
+        },
+        {
+            "line": "2호선",
+            "stationName": "을지로입구",
+            "dong": "중구 을지로1가",
+            "streetAddress": "서울특별시 중구 을지로 42",
+            "latitude": "126.982373",
+            "longitude": "37.5660649"
+        },
+        {
+            "line": "2호선",
+            "stationName": "을지로3가",
+            "dong": "중구 을지로2가",
+            "streetAddress": "서울특별시 중구 을지로 106",
+            "latitude": "126.9903084",
+            "longitude": "37.5663026"
+        },
+        {
+            "line": "2호선",
+            "stationName": "을지로4가",
+            "dong": "중구 을지로4가",
+            "streetAddress": "서울특별시 중구 을지로 178",
+            "latitude": "126.9978528",
+            "longitude": "37.566622"
+        },
+        {
+            "line": "2호선",
+            "stationName": "동대문역사문화공원",
+            "dong": "중구 을지로6가",
+            "streetAddress": "서울특별시 중구 을지로 279",
+            "latitude": "127.0091315",
+            "longitude": "37.5656821"
+        },
+        {
+            "line": "2호선",
+            "stationName": "신당",
+            "dong": "중구 흥인동",
+            "streetAddress": "서울특별시 중구 퇴계로 431-1",
+            "latitude": "127.0195406",
+            "longitude": "37.565679"
+        },
+        {
+            "line": "2호선",
+            "stationName": "상왕십리",
+            "dong": "성동구 하왕십리동",
+            "streetAddress": "서울특별시 성동구 왕십리로 374",
+            "latitude": "127.0290313",
+            "longitude": "37.5645081"
+        },
+        {
+            "line": "2호선",
+            "stationName": "왕십리",
+            "dong": "성동구 행당동",
+            "streetAddress": "서울특별시 성동구 왕십리로 300",
+            "latitude": "127.0366554",
+            "longitude": "37.5612593"
+        },
+        {
+            "line": "2호선",
+            "stationName": "한양대",
+            "dong": "성동구 행당동",
+            "streetAddress": "서울특별시 성동구 왕십리로 206",
+            "latitude": "127.0435845",
+            "longitude": "37.5556275"
+        },
+        {
+            "line": "2호선",
+            "stationName": "뚝섬",
+            "dong": "성동구 성수동1가",
+            "streetAddress": "서울특별시 성동구 아차산로 18",
+            "latitude": "127.0473652",
+            "longitude": "37.5472478"
+        },
+        {
+            "line": "2호선",
+            "stationName": "성수",
+            "dong": "성동구 성수동2가",
+            "streetAddress": "서울특별시 성동구 아차산로 100",
+            "latitude": "127.0560905",
+            "longitude": "37.5445772"
+        },
+        {
+            "line": "2호선",
+            "stationName": "건대입구",
+            "dong": "광진구 자양동",
+            "streetAddress": "서울특별시 광진구 아차산로 243",
+            "latitude": "127.0691733",
+            "longitude": "37.5403885"
+        },
+        {
+            "line": "2호선",
+            "stationName": "구의",
+            "dong": "광진구 구의동",
+            "streetAddress": "서울특별시 광진구 아차산로 384-1",
+            "latitude": "127.0861792",
+            "longitude": "37.5371525"
+        },
+        {
+            "line": "2호선",
+            "stationName": "강변",
+            "dong": "광진구 구의동",
+            "streetAddress": "서울특별시 광진구 강변역로 53",
+            "latitude": "127.0946887",
+            "longitude": "37.5351805"
+        },
+        {
+            "line": "2호선",
+            "stationName": "잠실나루",
+            "dong": "송파구 신천동",
+            "streetAddress": "서울특별시 송파구 오금로 20",
+            "latitude": "127.103811",
+            "longitude": "37.5206689"
+        },
+        {
+            "line": "2호선",
+            "stationName": "잠실",
+            "dong": "송파구 잠실동",
+            "streetAddress": "서울특별시 송파구 올림픽로 265",
+            "latitude": "127.1003127",
+            "longitude": "37.5133493"
+        },
+        {
+            "line": "2호선",
+            "stationName": "잠실새내",
+            "dong": "송파구 잠실동",
+            "streetAddress": "서울특별시 송파구 올림픽로 140",
+            "latitude": "127.0863739",
+            "longitude": "37.5116314"
+        },
+        {
+            "line": "2호선",
+            "stationName": "종합운동장",
+            "dong": "송파구 잠실동",
+            "streetAddress": "서울특별시 송파구 올림픽로 23",
+            "latitude": "127.0733561",
+            "longitude": "37.5110588"
+        },
+        {
+            "line": "2호선",
+            "stationName": "삼성",
+            "dong": "강남구 대치동",
+            "streetAddress": "서울특별시 강남구 테헤란로 538",
+            "latitude": "127.063073",
+            "longitude": "37.5088803"
+        },
+        {
+            "line": "2호선",
+            "stationName": "선릉",
+            "dong": "강남구 역삼동",
+            "streetAddress": "서울특별시 강남구 테헤란로 340",
+            "latitude": "127.0489425",
+            "longitude": "37.504525"
+        },
+        {
+            "line": "2호선",
+            "stationName": "역삼",
+            "dong": "강남구 역삼동",
+            "streetAddress": "서울특별시 강남구 테헤란로 156",
+            "latitude": "127.0366182",
+            "longitude": "37.5008183"
+        },
+        {
+            "line": "2호선",
+            "stationName": "강남",
+            "dong": "강남구 역삼동",
+            "streetAddress": "서울특별시 강남구 테헤란로 101 이즈타워",
+            "latitude": "127.0280314",
+            "longitude": "37.4979526"
+        },
+        {
+            "line": "2호선",
+            "stationName": "교대",
+            "dong": "서초구 서초동",
+            "streetAddress": "서울특별시 서초구 서초대로 294",
+            "latitude": "127.0138384",
+            "longitude": "37.4939732"
+        },
+        {
+            "line": "2호선",
+            "stationName": "서초",
+            "dong": "서초구 서초동",
+            "streetAddress": "서울특별시 서초구 서초대로 233",
+            "latitude": "127.0075808",
+            "longitude": "37.4918483"
+        },
+        {
+            "line": "2호선",
+            "stationName": "방배",
+            "dong": "서초구 방배동",
+            "streetAddress": "서울특별시 서초구 방배로 80",
+            "latitude": "126.9976949",
+            "longitude": "37.481521"
+        },
+        {
+            "line": "2호선",
+            "stationName": "사당",
+            "dong": "서초구 방배동",
+            "streetAddress": "서울특별시 동작구 남부순환로 2089",
+            "latitude": "126.981409",
+            "longitude": "37.4765793"
+        },
+        {
+            "line": "2호선",
+            "stationName": "낙성대",
+            "dong": "관악구 봉천동",
+            "streetAddress": "서울특별시 관악구 남부순환로 1928",
+            "latitude": "126.96341",
+            "longitude": "37.4771259"
+        },
+        {
+            "line": "2호선",
+            "stationName": "서울대입구",
+            "dong": "관악구 봉천동",
+            "streetAddress": "서울특별시 관악구 남부순환로 1822",
+            "latitude": "126.9526451",
+            "longitude": "37.4812195"
+        },
+        {
+            "line": "2호선",
+            "stationName": "봉천",
+            "dong": "관악구 봉천동",
+            "streetAddress": "서울특별시 관악구 남부순환로 1721",
+            "latitude": "126.9414953",
+            "longitude": "37.4824857"
+        },
+        {
+            "line": "2호선",
+            "stationName": "신림",
+            "dong": "관악구 신림동",
+            "streetAddress": "서울특별시 관악구 남부순환로 1614",
+            "latitude": "126.9298034",
+            "longitude": "37.484248"
+        },
+        {
+            "line": "2호선",
+            "stationName": "신대방",
+            "dong": "동작구 신대방동",
+            "streetAddress": "서울특별시 동작구 대림로 2",
+            "latitude": "126.9131597",
+            "longitude": "37.4875291"
+        },
+        {
+            "line": "2호선",
+            "stationName": "구로디지털단지",
+            "dong": "영등포구 대림동",
+            "streetAddress": "서울특별시 구로구 도림천로 477",
+            "latitude": "126.9014944",
+            "longitude": "37.485259"
+        },
+        {
+            "line": "2호선",
+            "stationName": "대림",
+            "dong": "영등포구 대림동",
+            "streetAddress": "서울특별시 구로구 도림천로 351",
+            "latitude": "126.8949462",
+            "longitude": "37.4934037"
+        },
+        {
+            "line": "2호선",
+            "stationName": "신도림",
+            "dong": "구로구 신도림동",
+            "streetAddress": "서울특별시 구로구 새말로 117-21",
+            "latitude": "126.8910805",
+            "longitude": "37.5086923"
+        },
+        {
+            "line": "2호선",
+            "stationName": "문래",
+            "dong": "영등포구 문래동3가",
+            "streetAddress": "서울특별시 영등포구 당산로 28",
+            "latitude": "126.894763",
+            "longitude": "37.5179987"
+        },
+        {
+            "line": "2호선",
+            "stationName": "영등포구청",
+            "dong": "영등포구 당산동3가",
+            "streetAddress": "서울특별시 영등포구 당산로 121",
+            "latitude": "126.8966269",
+            "longitude": "37.525823"
+        },
+        {
+            "line": "2호선",
+            "stationName": "당산",
+            "dong": "영등포구 당산동5가",
+            "streetAddress": "서울특별시 영등포구 당산로 229",
+            "latitude": "126.9027307",
+            "longitude": "37.5349277"
+        },
+        {
+            "line": "2호선",
+            "stationName": "합정",
+            "dong": "마포구 합정동",
+            "streetAddress": "서울특별시 마포구 양화로 55",
+            "latitude": "126.9146382",
+            "longitude": "37.5499338"
+        },
+        {
+            "line": "2호선",
+            "stationName": "홍대입구",
+            "dong": "마포구 동교동",
+            "streetAddress": "서울특별시 마포구 양화로 160",
+            "latitude": "126.9236743",
+            "longitude": "37.5568478"
+        },
+        {
+            "line": "2호선",
+            "stationName": "신촌",
+            "dong": "마포구 노고산동",
+            "streetAddress": "서울특별시 마포구 신촌로 90",
+            "latitude": "126.9361192",
+            "longitude": "37.5551786"
+        },
+        {
+            "line": "2호선",
+            "stationName": "이대",
+            "dong": "마포구 대흥동",
+            "streetAddress": "서울특별시 마포구 신촌로 180",
+            "latitude": "126.9454989",
+            "longitude": "37.5567702"
+        },
+        {
+            "line": "2호선",
+            "stationName": "아현",
+            "dong": "서대문구 북아현동",
+            "streetAddress": "서울특별시 마포구 신촌로 270",
+            "latitude": "126.9557389",
+            "longitude": "37.5573907"
+        },
+        {
+            "line": "2호선",
+            "stationName": "충정로",
+            "dong": "서대문구 충정로3가",
+            "streetAddress": "서울특별시 서대문구 서소문로 17",
+            "latitude": "126.9644741",
+            "longitude": "37.5596596"
+        },
+        {
+            "line": "2호선",
+            "stationName": "용답",
+            "dong": "성동구 용답동",
+            "streetAddress": "서울특별시 성동구 용답길 86",
+            "latitude": "127.0507293",
+            "longitude": "37.5621781"
+        },
+        {
+            "line": "2호선",
+            "stationName": "신답",
+            "dong": "성동구 용답동",
+            "streetAddress": "서울특별시 성동구 천호대로 232",
+            "latitude": "127.0468202",
+            "longitude": "37.5698974"
+        },
+        {
+            "line": "2호선",
+            "stationName": "용두",
+            "dong": "동대문구 용두동",
+            "streetAddress": "서울특별시 동대문구 천호대로 129",
+            "latitude": "127.0378335",
+            "longitude": "37.5739349"
+        },
+        {
+            "line": "2호선",
+            "stationName": "신설동",
+            "dong": "동대문구 신설동",
+            "streetAddress": "서울특별시 동대문구 왕산로 1",
+            "latitude": "127.0250937",
+            "longitude": "37.5746287"
+        },
+        {
+            "line": "2호선",
+            "stationName": "신도림",
+            "dong": "구로구 신도림동",
+            "streetAddress": "서울특별시 구로구 새말로 117-21",
+            "latitude": "126.8910805",
+            "longitude": "37.5086923"
+        },
+        {
+            "line": "2호선",
+            "stationName": "도림천",
+            "dong": "구로구 신도림동",
+            "streetAddress": "서울특별시 구로구 경인로 67길 160",
+            "latitude": "126.8827026",
+            "longitude": "37.5144704"
+        },
+        {
+            "line": "2호선",
+            "stationName": "양천구청",
+            "dong": "양천구 신정동",
+            "streetAddress": "서울특별시 양천구 목동로 3길 33",
+            "latitude": "126.8660652",
+            "longitude": "37.5123319"
+        },
+        {
+            "line": "2호선",
+            "stationName": "신정네거리",
+            "dong": "양천구 신정동",
+            "streetAddress": "서울특별시 양천구 중앙로 261",
+            "latitude": "126.8527877",
+            "longitude": "37.5202198"
+        },
+        {
+            "line": "2호선",
+            "stationName": "까치산",
+            "dong": "강서구 화곡동",
+            "streetAddress": "서울특별시 강서구 강서로 54",
+            "latitude": "126.8466116",
+            "longitude": "37.5314305"
+        },
+        {
+            "line": "3호선",
+            "stationName": "구파발",
+            "dong": "은평구 진관동",
+            "streetAddress": "서울특별시 은평구 진관2로 15-25",
+            "latitude": "126.9187454",
+            "longitude": "37.6365903"
+        },
+        {
+            "line": "3호선",
+            "stationName": "연신내",
+            "dong": "은평구 갈현동",
+            "streetAddress": "서울특별시 은평구 통일로 849",
+            "latitude": "126.9211621",
+            "longitude": "37.619062"
+        },
+        {
+            "line": "3호선",
+            "stationName": "불광",
+            "dong": "은평구 불광동",
+            "streetAddress": "서울특별시 은평구 통일로 723-1",
+            "latitude": "126.9299858",
+            "longitude": "37.6100788"
+        },
+        {
+            "line": "3호선",
+            "stationName": "녹번",
+            "dong": "은평구 녹번동",
+            "streetAddress": "서울특별시 은평구 통일로 602-1",
+            "latitude": "126.9360194",
+            "longitude": "37.6008785"
+        },
+        {
+            "line": "3호선",
+            "stationName": "홍제",
+            "dong": "서대문구 홍제동",
+            "streetAddress": "서울특별시 서대문구 통일로 440-1",
+            "latitude": "126.9442423",
+            "longitude": "37.5888017"
+        },
+        {
+            "line": "3호선",
+            "stationName": "무악재",
+            "dong": "서대문구 홍제동",
+            "streetAddress": "서울특별시 서대문구 통일로 361",
+            "latitude": "126.9503222",
+            "longitude": "37.5826698"
+        },
+        {
+            "line": "3호선",
+            "stationName": "독립문",
+            "dong": "서대문구 현저동",
+            "streetAddress": "서울특별시 서대문구 통일로 247",
+            "latitude": "126.9577503",
+            "longitude": "37.5744604"
+        },
+        {
+            "line": "3호선",
+            "stationName": "경복궁",
+            "dong": "종로구 내자동",
+            "streetAddress": "서울특별시 종로구 사직로 130",
+            "latitude": "126.9733437",
+            "longitude": "37.5758415"
+        },
+        {
+            "line": "3호선",
+            "stationName": "안국",
+            "dong": "종로구 안국동",
+            "streetAddress": "서울특별시 종로구 율곡로 62",
+            "latitude": "126.985823",
+            "longitude": "37.5765653"
+        },
+        {
+            "line": "3호선",
+            "stationName": "종로3가",
+            "dong": "종로구 돈의동",
+            "streetAddress": "서울특별시 종로구 돈화문로 30",
+            "latitude": "126.9919944",
+            "longitude": "37.5716551"
+        },
+        {
+            "line": "3호선",
+            "stationName": "을지로3가",
+            "dong": "중구 을지로3가",
+            "streetAddress": "서울특별시 중구 을지로 129",
+            "latitude": "126.9926501",
+            "longitude": "37.566389"
+        },
+        {
+            "line": "3호선",
+            "stationName": "충무로",
+            "dong": "중구 필동1가",
+            "streetAddress": "서울특별시 중구 퇴계로 199",
+            "latitude": "126.9941107",
+            "longitude": "37.5610743"
+        },
+        {
+            "line": "3호선",
+            "stationName": "동대입구",
+            "dong": "중구 장충동2가",
+            "streetAddress": "서울특별시 중구 동호로 256",
+            "latitude": "127.0054602",
+            "longitude": "37.5590621"
+        },
+        {
+            "line": "3호선",
+            "stationName": "약수",
+            "dong": "중구 신당동",
+            "streetAddress": "서울특별시 중구 다산로 122",
+            "latitude": "127.0108225",
+            "longitude": "37.5547147"
+        },
+        {
+            "line": "3호선",
+            "stationName": "금호",
+            "dong": "성동구 금호동3가",
+            "streetAddress": "서울특별시 성동구 동호로 104",
+            "latitude": "127.0158937",
+            "longitude": "37.5482682"
+        },
+        {
+            "line": "3호선",
+            "stationName": "옥수",
+            "dong": "성동구 옥수동",
+            "streetAddress": "서울특별시 성동구 동호로 21",
+            "latitude": "127.0189654",
+            "longitude": "37.5415999"
+        },
+        {
+            "line": "3호선",
+            "stationName": "압구정",
+            "dong": "강남구 압구정동",
+            "streetAddress": "서울특별시 강남구 압구정로 172",
+            "latitude": "127.0282166",
+            "longitude": "37.5261521"
+        },
+        {
+            "line": "3호선",
+            "stationName": "신사",
+            "dong": "강남구 논현동",
+            "streetAddress": "서울특별시 강남구 도산대로 102",
+            "latitude": "127.0203269",
+            "longitude": "37.5165645"
+        },
+        {
+            "line": "3호선",
+            "stationName": "잠원",
+            "dong": "서초구 잠원동",
+            "streetAddress": "서울특별시 서초구 잠원로4길 46",
+            "latitude": "127.0112201",
+            "longitude": "37.5129682"
+        },
+        {
+            "line": "3호선",
+            "stationName": "고속터미널",
+            "dong": "서초구 잠원동",
+            "streetAddress": "서울특별시 서초구 신반포로 188",
+            "latitude": "127.0049482",
+            "longitude": "37.504775"
+        },
+        {
+            "line": "3호선",
+            "stationName": "교대",
+            "dong": "서초구 서초동",
+            "streetAddress": "서울특별시 서초구 서초대로 294",
+            "latitude": "127.0138384",
+            "longitude": "35.8566996"
+        },
+        {
+            "line": "3호선",
+            "stationName": "남부터미널",
+            "dong": "서초구 서초동",
+            "streetAddress": "서울특별시 서초구 서초중앙로 31",
+            "latitude": "127.016207",
+            "longitude": "37.4849183"
+        },
+        {
+            "line": "3호선",
+            "stationName": "양재",
+            "dong": "서초구 서초동",
+            "streetAddress": "서울특별시 서초구 남부순환로 2585",
+            "latitude": "127.0345442",
+            "longitude": "37.4845515"
+        },
+        {
+            "line": "3호선",
+            "stationName": "매봉",
+            "dong": "강남구 도곡동",
+            "streetAddress": "서울특별시 강남구 남부순환로 2744",
+            "latitude": "127.0466146",
+            "longitude": "37.4870418"
+        },
+        {
+            "line": "3호선",
+            "stationName": "도곡",
+            "dong": "강남구 도곡동",
+            "streetAddress": "서울특별시 강남구 남부순환로 2814",
+            "latitude": "127.0553234",
+            "longitude": "37.4909242"
+        },
+        {
+            "line": "3호선",
+            "stationName": "대치",
+            "dong": "강남구 대치동",
+            "streetAddress": "서울특별시 강남구 남부순환로 2952",
+            "latitude": "127.0634302",
+            "longitude": "37.4945769"
+        },
+        {
+            "line": "3호선",
+            "stationName": "학여울",
+            "dong": "강남구 대치동",
+            "streetAddress": "서울특별시 강남구 남부순환로 3104",
+            "latitude": "127.0719668",
+            "longitude": "37.4966999"
+        },
+        {
+            "line": "3호선",
+            "stationName": "대청",
+            "dong": "강남구 개포동",
+            "streetAddress": "서울특별시 강남구 일원로 2",
+            "latitude": "127.0794937",
+            "longitude": "37.4936083"
+        },
+        {
+            "line": "3호선",
+            "stationName": "일원",
+            "dong": "강남구 일원동",
+            "streetAddress": "서울특별시 강남구 일원로 121",
+            "latitude": "127.0844518",
+            "longitude": "37.4838766"
+        },
+        {
+            "line": "3호선",
+            "stationName": "수서",
+            "dong": "강남구 수서동",
+            "streetAddress": "서울특별시 강남구 광평로 270",
+            "latitude": "127.1018592",
+            "longitude": "37.4874558"
+        },
+        {
+            "line": "3호선",
+            "stationName": "가락시장",
+            "dong": "송파구 가락동",
+            "streetAddress": "서울특별시 송파구 송파대로 257",
+            "latitude": "127.1184858",
+            "longitude": "37.4923243"
+        },
+        {
+            "line": "3호선",
+            "stationName": "경찰병원",
+            "dong": "송파구 가락동",
+            "streetAddress": "서울특별시 송파구 중대로 149",
+            "latitude": "127.1240678",
+            "longitude": "37.4957009"
+        },
+        {
+            "line": "3호선",
+            "stationName": "오금",
+            "dong": "송파구 오금동",
+            "streetAddress": "서울특별시 송파구 오금로 321",
+            "latitude": "127.1278792",
+            "longitude": "37.5023171"
+        },
+        {
+            "line": "4호선",
+            "stationName": "당고개",
+            "dong": "노원구 상계동",
+            "streetAddress": "서울특별시 노원구 상계로 305",
+            "latitude": "127.0790112",
+            "longitude": "37.6702656"
+        },
+        {
+            "line": "4호선",
+            "stationName": "상계",
+            "dong": "노원구 상계동",
+            "streetAddress": "서울특별시 노원구 상계로 182",
+            "latitude": "127.0735754",
+            "longitude": "37.6605735"
+        },
+        {
+            "line": "4호선",
+            "stationName": "노원",
+            "dong": "노원구 상계동",
+            "streetAddress": "서울특별시 노원구 상계로 69-1",
+            "latitude": "127.0630304",
+            "longitude": "37.6563525"
+        },
+        {
+            "line": "4호선",
+            "stationName": "창동",
+            "dong": "도봉구 창동",
+            "streetAddress": "서울특별시 도봉구 마들로 11길 77",
+            "latitude": "127.0477009",
+            "longitude": "37.6531874"
+        },
+        {
+            "line": "4호선",
+            "stationName": "쌍문",
+            "dong": "도봉구 쌍문동",
+            "streetAddress": "서울특별시 도봉구 도봉로 486-1",
+            "latitude": "127.0348808",
+            "longitude": "37.6486101"
+        },
+        {
+            "line": "4호선",
+            "stationName": "수유",
+            "dong": "강북구 수유동",
+            "streetAddress": "서울특별시 강북구 도봉로 338",
+            "latitude": "127.0253569",
+            "longitude": "37.6378307"
+        },
+        {
+            "line": "4호선",
+            "stationName": "미아",
+            "dong": "강북구 미아동",
+            "streetAddress": "서울특별시 강북구 도봉로 198",
+            "latitude": "127.0261035",
+            "longitude": "37.6264575"
+        },
+        {
+            "line": "4호선",
+            "stationName": "미아사거리",
+            "dong": "강북구 미아동",
+            "streetAddress": "서울특별시 강북구 도봉로 50",
+            "latitude": "127.0300984",
+            "longitude": "37.613283"
+        },
+        {
+            "line": "4호선",
+            "stationName": "길음",
+            "dong": "성북구 길음동",
+            "streetAddress": "서울특별시 성북구 동소문로 248",
+            "latitude": "127.0236736",
+            "longitude": "37.6032115"
+        },
+        {
+            "line": "4호선",
+            "stationName": "성신여대입구",
+            "dong": "성북구 동소문동5가",
+            "streetAddress": "서울특별시 성북구 동소문로 102",
+            "latitude": "127.0164776",
+            "longitude": "37.5927287"
+        },
+        {
+            "line": "4호선",
+            "stationName": "한성대입구",
+            "dong": "성북구 동소문동1가",
+            "streetAddress": "서울특별시 성북구 삼선교로 1",
+            "latitude": "127.0059504",
+            "longitude": "37.5884639"
+        },
+        {
+            "line": "4호선",
+            "stationName": "혜화",
+            "dong": "종로구 명륜4가",
+            "streetAddress": "서울특별시 종로구 대학로 120",
+            "latitude": "127.0023149",
+            "longitude": "37.5821476"
+        },
+        {
+            "line": "4호선",
+            "stationName": "동대문",
+            "dong": "종로구 종로6가",
+            "streetAddress": "서울특별시 종로구 율곡로 308",
+            "latitude": "127.0095466",
+            "longitude": "37.5709097"
+        },
+        {
+            "line": "4호선",
+            "stationName": "동대문역사문화공원",
+            "dong": "중구 을지로7가",
+            "streetAddress": "서울특별시 중구 장충단로 230",
+            "latitude": "127.0075507",
+            "longitude": "37.5651445"
+        },
+        {
+            "line": "4호선",
+            "stationName": "충무로",
+            "dong": "중구 충무로4가",
+            "streetAddress": "서울특별시 중구 퇴계로 199",
+            "latitude": "126.9941107",
+            "longitude": "37.5612694"
+        },
+        {
+            "line": "4호선",
+            "stationName": "명동",
+            "dong": "중구 남산동1가",
+            "streetAddress": "서울특별시 중구 퇴계로 126",
+            "latitude": "126.9859471",
+            "longitude": "37.5609735"
+        },
+        {
+            "line": "4호선",
+            "stationName": "회현",
+            "dong": "중구 남창동",
+            "streetAddress": "서울특별시 중구 퇴계로 54",
+            "latitude": "126.9782391",
+            "longitude": "37.5585365"
+        },
+        {
+            "line": "4호선",
+            "stationName": "서울역",
+            "dong": "중구 남대문로5가",
+            "streetAddress": "서울특별시 용산구 한강대로 392",
+            "latitude": "126.9728054",
+            "longitude": "37.5530864"
+        },
+        {
+            "line": "4호선",
+            "stationName": "숙대입구",
+            "dong": "용산구 갈월동",
+            "streetAddress": "서울특별시 용산구 한강대로 306",
+            "latitude": "126.9718723",
+            "longitude": "37.5446317"
+        },
+        {
+            "line": "4호선",
+            "stationName": "삼각지",
+            "dong": "용산구 한강로1가",
+            "streetAddress": "서울특별시 용산구 한강대로 180",
+            "latitude": "126.9730111",
+            "longitude": "37.5344669"
+        },
+        {
+            "line": "4호선",
+            "stationName": "신용산",
+            "dong": "용산구 한강로2가",
+            "streetAddress": "서울특별시 용산구 한강대로 112",
+            "latitude": "126.9682159",
+            "longitude": "37.5292118"
+        },
+        {
+            "line": "4호선",
+            "stationName": "이촌",
+            "dong": "용산구 용산동5가",
+            "streetAddress": "서울특별시 용산구 서빙고로 83",
+            "latitude": "126.9736831",
+            "longitude": "37.5224312"
+        },
+        {
+            "line": "4호선",
+            "stationName": "동작",
+            "dong": "동작구 동작동",
+            "streetAddress": "서울특별시 동작구 현충로 257",
+            "latitude": "126.9802684",
+            "longitude": "37.5029661"
+        },
+        {
+            "line": "4호선",
+            "stationName": "총신대입구",
+            "dong": "동작구 사당동",
+            "streetAddress": "서울특별시 동작구 동작대로 117",
+            "latitude": "126.9821998",
+            "longitude": "37.4866678"
+        },
+        {
+            "line": "4호선",
+            "stationName": "사당",
+            "dong": "서초구 방배동",
+            "streetAddress": "서울특별시 동작구 동작대로 3",
+            "latitude": "126.9815951",
+            "longitude": "37.4772357"
+        },
+        {
+            "line": "4호선",
+            "stationName": "남태령",
+            "dong": "서초구 방배동",
+            "streetAddress": "서울특별시 서초구 과천대로 816",
+            "latitude": "126.9886565",
+            "longitude": "37.4642462"
+        },
+        {
+            "line": "5호선",
+            "stationName": "방화",
+            "dong": "강서구 방화동",
+            "streetAddress": "서울특별시 강서구 금낭화로 132",
+            "latitude": "126.8126299",
+            "longitude": "37.5776425"
+        },
+        {
+            "line": "5호선",
+            "stationName": "개화산",
+            "dong": "강서구 방화동",
+            "streetAddress": "서울특별시 강서구 양천로 22",
+            "latitude": "126.8060017",
+            "longitude": "37.5724873"
+        },
+        {
+            "line": "5호선",
+            "stationName": "김포공항",
+            "dong": "강서구 방화동",
+            "streetAddress": "서울특별시 강서구 하늘길 77",
+            "latitude": "126.8012785",
+            "longitude": "37.5620016"
+        },
+        {
+            "line": "5호선",
+            "stationName": "송정",
+            "dong": "강서구 공항동",
+            "streetAddress": "서울특별시 강서구 공항대로 33",
+            "latitude": "126.8110554",
+            "longitude": "37.5611976"
+        },
+        {
+            "line": "5호선",
+            "stationName": "마곡",
+            "dong": "강서구 마곡동",
+            "streetAddress": "서울특별시 강서구 공항대로 163",
+            "latitude": "126.825548",
+            "longitude": "37.5598807"
+        },
+        {
+            "line": "5호선",
+            "stationName": "발산",
+            "dong": "강서구 마곡동",
+            "streetAddress": "서울특별시 강서구 공항대로 267",
+            "latitude": "126.8373108",
+            "longitude": "37.5585454"
+        },
+        {
+            "line": "5호선",
+            "stationName": "우장산",
+            "dong": "강서구 내발산동",
+            "streetAddress": "서울특별시 강서구 강서로 262",
+            "latitude": "126.836409",
+            "longitude": "37.5487935"
+        },
+        {
+            "line": "5호선",
+            "stationName": "화곡",
+            "dong": "강서구 화곡동",
+            "streetAddress": "서울특별시 강서구 화곡로 168",
+            "latitude": "126.8404964",
+            "longitude": "37.5415982"
+        },
+        {
+            "line": "5호선",
+            "stationName": "까치산",
+            "dong": "강서구 화곡동",
+            "streetAddress": "서울특별시 강서구 강서로 54",
+            "latitude": "126.8466116",
+            "longitude": "37.5321248"
+        },
+        {
+            "line": "5호선",
+            "stationName": "신정",
+            "dong": "양천구 신정동",
+            "streetAddress": "서울특별시 양천구 오목로 179",
+            "latitude": "126.8572705",
+            "longitude": "37.5249872"
+        },
+        {
+            "line": "5호선",
+            "stationName": "목동",
+            "dong": "양천구 신정동",
+            "streetAddress": "서울특별시 양천구 오목로 245",
+            "latitude": "126.8647426",
+            "longitude": "37.5260945"
+        },
+        {
+            "line": "5호선",
+            "stationName": "오목교",
+            "dong": "양천구 목동",
+            "streetAddress": "서울특별시 양천구 오목로 342",
+            "latitude": "126.8753546",
+            "longitude": "37.5245635"
+        },
+        {
+            "line": "5호선",
+            "stationName": "양평",
+            "dong": "영등포구 양평동3가",
+            "streetAddress": "서울특별시 영등포구 양산로 21",
+            "latitude": "126.8868656",
+            "longitude": "37.5256162"
+        },
+        {
+            "line": "5호선",
+            "stationName": "영등포구청",
+            "dong": "영등포구 당산동2가",
+            "streetAddress": "서울특별시 영등포구 양산로 116",
+            "latitude": "126.8952891",
+            "longitude": "37.5242198"
+        },
+        {
+            "line": "5호선",
+            "stationName": "영등포시장",
+            "dong": "영등포구 영등포동5가",
+            "streetAddress": "서울특별시 영등포구 양산로 200",
+            "latitude": "126.9049592",
+            "longitude": "37.5227315"
+        },
+        {
+            "line": "5호선",
+            "stationName": "신길",
+            "dong": "영등포구 영등포동1가",
+            "streetAddress": "서울특별시 영등포구 경인로 114가길 9",
+            "latitude": "126.914337",
+            "longitude": "37.5176566"
+        },
+        {
+            "line": "5호선",
+            "stationName": "여의도",
+            "dong": "영등포구 여의도동",
+            "streetAddress": "서울특별시 영등포구 여의나루로 40",
+            "latitude": "126.9244847",
+            "longitude": "37.5215199"
+        },
+        {
+            "line": "5호선",
+            "stationName": "여의나루",
+            "dong": "영등포구 여의도동",
+            "streetAddress": "서울특별시 영등포구 여의동로 343",
+            "latitude": "126.932864",
+            "longitude": "37.5271503"
+        },
+        {
+            "line": "5호선",
+            "stationName": "마포",
+            "dong": "마포구 도화동",
+            "streetAddress": "서울특별시 마포구 마포대로 33",
+            "latitude": "126.9459203",
+            "longitude": "37.5396112"
+        },
+        {
+            "line": "5호선",
+            "stationName": "공덕",
+            "dong": "마포구 도화동",
+            "streetAddress": "서울특별시 마포구 마포대로 100",
+            "latitude": "126.9513638",
+            "longitude": "37.5439737"
+        },
+        {
+            "line": "5호선",
+            "stationName": "애오개",
+            "dong": "마포구 아현동",
+            "streetAddress": "서울특별시 마포구 마포대로 210",
+            "latitude": "126.9566132",
+            "longitude": "37.5534356"
+        },
+        {
+            "line": "5호선",
+            "stationName": "충정로",
+            "dong": "서대문구 충정로3가",
+            "streetAddress": "서울특별시 서대문구 충정로 28-1",
+            "latitude": "126.9633732",
+            "longitude": "37.560308"
+        },
+        {
+            "line": "5호선",
+            "stationName": "서대문",
+            "dong": "서대문구 충정로2가",
+            "streetAddress": "서울특별시 종로구 통일로 126",
+            "latitude": "126.9666374",
+            "longitude": "37.5659878"
+        },
+        {
+            "line": "5호선",
+            "stationName": "광화문",
+            "dong": "종로구 당주동",
+            "streetAddress": "서울특별시 종로구 세종대로 172",
+            "latitude": "126.9767879",
+            "longitude": "37.5716652"
+        },
+        {
+            "line": "5호선",
+            "stationName": "종로3가",
+            "dong": "종로구 낙원동",
+            "streetAddress": "서울특별시 종로구 돈화문로 11길 26",
+            "latitude": "126.9899576",
+            "longitude": "37.5704368"
+        },
+        {
+            "line": "5호선",
+            "stationName": "을지로4가",
+            "dong": "중구 주교동",
+            "streetAddress": "서울특별시 중구 창경궁로 51",
+            "latitude": "126.9980596",
+            "longitude": "37.5674054"
+        },
+        {
+            "line": "5호선",
+            "stationName": "동대문역사문화공원",
+            "dong": "중구 을지로7가",
+            "streetAddress": "서울특별시 중구 마른내로 162",
+            "latitude": "127.0059162",
+            "longitude": "37.5647192"
+        },
+        {
+            "line": "5호선",
+            "stationName": "청구",
+            "dong": "중구 신당동",
+            "streetAddress": "서울특별시 중구 청구로 77",
+            "latitude": "127.013806",
+            "longitude": "37.5602147"
+        },
+        {
+            "line": "5호선",
+            "stationName": "신금호",
+            "dong": "성동구 금호동1가",
+            "streetAddress": "서울특별시 성동구 금호로 154",
+            "latitude": "127.0200642",
+            "longitude": "37.5544704"
+        },
+        {
+            "line": "5호선",
+            "stationName": "행당",
+            "dong": "성동구 행당동",
+            "streetAddress": "서울특별시 성동구 행당로 89",
+            "latitude": "127.0288996",
+            "longitude": "37.55741"
+        },
+        {
+            "line": "5호선",
+            "stationName": "왕십리",
+            "dong": "성동구 행당동",
+            "streetAddress": "서울특별시 성동구 왕십리로 300",
+            "latitude": "127.0366554",
+            "longitude": "37.5618331"
+        },
+        {
+            "line": "5호선",
+            "stationName": "마장",
+            "dong": "성동구 마장동",
+            "streetAddress": "서울특별시 성동구 마장로 296",
+            "latitude": "127.0431635",
+            "longitude": "37.5661357"
+        },
+        {
+            "line": "5호선",
+            "stationName": "답십리",
+            "dong": "성동구 용답동",
+            "streetAddress": "서울특별시 성동구 천호대로 300",
+            "latitude": "127.0531809",
+            "longitude": "37.567096"
+        },
+        {
+            "line": "5호선",
+            "stationName": "장한평",
+            "dong": "성동구 용답동",
+            "streetAddress": "서울특별시 동대문구 천호대로 405",
+            "latitude": "127.0641904",
+            "longitude": "37.5614836"
+        },
+        {
+            "line": "5호선",
+            "stationName": "군자",
+            "dong": "광진구 군자동",
+            "streetAddress": "서울특별시 광진구 천호대로 550",
+            "latitude": "127.0790173",
+            "longitude": "37.5571918"
+        },
+        {
+            "line": "5호선",
+            "stationName": "아차산",
+            "dong": "광진구 능동",
+            "streetAddress": "서울특별시 광진구 천호대로 657",
+            "latitude": "127.0893706",
+            "longitude": "37.5520394"
+        },
+        {
+            "line": "5호선",
+            "stationName": "광나루",
+            "dong": "광진구 광장동",
+            "streetAddress": "서울특별시 광진구 아차산로 571",
+            "latitude": "127.1036865",
+            "longitude": "37.5453391"
+        },
+        {
+            "line": "5호선",
+            "stationName": "천호",
+            "dong": "송파구 풍납동",
+            "streetAddress": "서울특별시 강동구 천호대로 997",
+            "latitude": "127.1233121",
+            "longitude": "37.5385953"
+        },
+        {
+            "line": "5호선",
+            "stationName": "강동",
+            "dong": "강동구 성내동",
+            "streetAddress": "서울특별시 강동구 천호대로 1097",
+            "latitude": "127.1335296",
+            "longitude": "37.5359577"
+        },
+        {
+            "line": "5호선",
+            "stationName": "길동",
+            "dong": "강동구 길동",
+            "streetAddress": "서울특별시 강동구 양재대로 1480",
+            "latitude": "127.1399992",
+            "longitude": "37.5377764"
+        },
+        {
+            "line": "5호선",
+            "stationName": "굽은다리",
+            "dong": "강동구 명일동",
+            "streetAddress": "서울특별시 강동구 양재대로 1572",
+            "latitude": "127.1429708",
+            "longitude": "37.5455462"
+        },
+        {
+            "line": "5호선",
+            "stationName": "명일",
+            "dong": "강동구 명일동",
+            "streetAddress": "서울특별시 강동구 양재대로 1632",
+            "latitude": "127.1440009",
+            "longitude": "37.5513173"
+        },
+        {
+            "line": "5호선",
+            "stationName": "고덕",
+            "dong": "강동구 고덕동",
+            "streetAddress": "서울특별시 강동구 고덕로 253",
+            "latitude": "127.1539494",
+            "longitude": "37.5550582"
+        },
+        {
+            "line": "5호선",
+            "stationName": "상일동",
+            "dong": "강동구 고덕동",
+            "streetAddress": "서울특별시 강동구 고덕로 359",
+            "latitude": "127.1658292",
+            "longitude": "37.5566052"
+        },
+        {
+            "line": "5호선",
+            "stationName": "둔촌동",
+            "dong": "강동구 성내동",
+            "streetAddress": "서울특별시 강동구 양재대로 1369",
+            "latitude": "127.1363753",
+            "longitude": "37.5276644"
+        },
+        {
+            "line": "5호선",
+            "stationName": "올림픽공원",
+            "dong": "송파구 방이동",
+            "streetAddress": "서울특별시 송파구 양재대로 1233",
+            "latitude": "127.1306002",
+            "longitude": "37.5158851"
+        },
+        {
+            "line": "5호선",
+            "stationName": "방이",
+            "dong": "송파구 방이동",
+            "streetAddress": "서울특별시 송파구 양재대로 1127",
+            "latitude": "127.1258547",
+            "longitude": "37.5085664"
+        },
+        {
+            "line": "5호선",
+            "stationName": "오금",
+            "dong": "송파구 오금동",
+            "streetAddress": "서울특별시 송파구 오금로 321",
+            "latitude": "127.1278792",
+            "longitude": "37.5022829"
+        },
+        {
+            "line": "5호선",
+            "stationName": "개롱",
+            "dong": "송파구 가락동",
+            "streetAddress": "서울특별시 송파구 오금로 402",
+            "latitude": "127.1351586",
+            "longitude": "37.4979727"
+        },
+        {
+            "line": "5호선",
+            "stationName": "거여",
+            "dong": "송파구 거여동",
+            "streetAddress": "서울특별시 송파구 오금로 499",
+            "latitude": "127.1440323",
+            "longitude": "37.4934295"
+        },
+        {
+            "line": "5호선",
+            "stationName": "마천",
+            "dong": "송파구 마천동",
+            "streetAddress": "서울특별시 송파구 마천로 57길 7",
+            "latitude": "127.1523206",
+            "longitude": "37.4950271"
+        },
+        {
+            "line": "6호선",
+            "stationName": "응암",
+            "dong": "은평구 신사동",
+            "streetAddress": "서울특별시 은평구 증산로 477",
+            "latitude": "126.9155128",
+            "longitude": "37.5984816"
+        },
+        {
+            "line": "6호선",
+            "stationName": "역촌",
+            "dong": "은평구 역촌동",
+            "streetAddress": "서울특별시 은평구 서오릉로 63",
+            "latitude": "126.9229679",
+            "longitude": "37.6063235"
+        },
+        {
+            "line": "6호선",
+            "stationName": "불광",
+            "dong": "은평구 불광동",
+            "streetAddress": "서울특별시 은평구 통일로 723-1",
+            "latitude": "126.9299858",
+            "longitude": "37.6109458"
+        },
+        {
+            "line": "6호선",
+            "stationName": "독바위",
+            "dong": "은평구 불광동",
+            "streetAddress": "서울특별시 은평구 불광로 129-1",
+            "latitude": "126.9328102",
+            "longitude": "37.6183967"
+        },
+        {
+            "line": "6호선",
+            "stationName": "연신내",
+            "dong": "은평구 갈현동",
+            "streetAddress": "서울특별시 은평구 통일로 849",
+            "latitude": "126.9211621",
+            "longitude": "37.6185603"
+        },
+        {
+            "line": "6호선",
+            "stationName": "구산",
+            "dong": "은평구 대조동",
+            "streetAddress": "서울특별시 은평구 연서로 137-1",
+            "latitude": "126.9171824",
+            "longitude": "37.6113339"
+        },
+        {
+            "line": "6호선",
+            "stationName": "새절",
+            "dong": "은평구 신사동",
+            "streetAddress": "서울특별시 은평구 증산로 400",
+            "latitude": "126.913912",
+            "longitude": "37.5910234"
+        },
+        {
+            "line": "6호선",
+            "stationName": "증산",
+            "dong": "은평구 증산동",
+            "streetAddress": "서울특별시 은평구 증산로 306",
+            "latitude": "126.9100576",
+            "longitude": "37.5839423"
+        },
+        {
+            "line": "6호선",
+            "stationName": "디지털미디어시티",
+            "dong": "마포구 상암동",
+            "streetAddress": "서울특별시 은평구 수색로 175",
+            "latitude": "126.9019286",
+            "longitude": "37.5764053"
+        },
+        {
+            "line": "6호선",
+            "stationName": "월드컵경기장",
+            "dong": "마포구 성산동",
+            "streetAddress": "서울특별시 마포구 월드컵로 240",
+            "latitude": "126.8972733",
+            "longitude": "37.569721"
+        },
+        {
+            "line": "6호선",
+            "stationName": "마포구청",
+            "dong": "마포구 성산동",
+            "streetAddress": "서울특별시 마포구 월드컵로 190",
+            "latitude": "126.903357",
+            "longitude": "37.5634038"
+        },
+        {
+            "line": "6호선",
+            "stationName": "망원",
+            "dong": "마포구 망원동",
+            "streetAddress": "서울특별시 마포구 월드컵로 77",
+            "latitude": "126.9100339",
+            "longitude": "37.5560693"
+        },
+        {
+            "line": "6호선",
+            "stationName": "합정",
+            "dong": "마포구 합정동",
+            "streetAddress": "서울특별시 마포구 양화로 45",
+            "latitude": "126.9131909",
+            "longitude": "37.5492896"
+        },
+        {
+            "line": "6호선",
+            "stationName": "상수",
+            "dong": "마포구 상수동",
+            "streetAddress": "서울특별시 마포구 독막로 85",
+            "latitude": "126.9224099",
+            "longitude": "37.5477484"
+        },
+        {
+            "line": "6호선",
+            "stationName": "광흥창",
+            "dong": "마포구 창전동",
+            "streetAddress": "서울특별시 마포구 독막로 165",
+            "latitude": "126.9319392",
+            "longitude": "37.5474876"
+        },
+        {
+            "line": "6호선",
+            "stationName": "대흥",
+            "dong": "마포구 대흥동",
+            "streetAddress": "서울특별시 마포구 대흥로 85",
+            "latitude": "126.9424653",
+            "longitude": "37.5477063"
+        },
+        {
+            "line": "6호선",
+            "stationName": "공덕",
+            "dong": "마포구 도화동",
+            "streetAddress": "서울특별시 마포구 백범로 200",
+            "latitude": "126.9519475",
+            "longitude": "37.5435299"
+        },
+        {
+            "line": "6호선",
+            "stationName": "효창공원앞",
+            "dong": "용산구 효창동",
+            "streetAddress": "서울특별시 용산구 백범로 287",
+            "latitude": "126.9612259",
+            "longitude": "37.5392324"
+        },
+        {
+            "line": "6호선",
+            "stationName": "삼각지",
+            "dong": "용산구 한강로1가",
+            "streetAddress": "서울특별시 용산구 한강대로 185",
+            "latitude": "126.9740805",
+            "longitude": "37.5356134"
+        },
+        {
+            "line": "6호선",
+            "stationName": "녹사평",
+            "dong": "용산구 용산동2가",
+            "streetAddress": "서울특별시 용산구 녹사평대로 195",
+            "latitude": "126.9870285",
+            "longitude": "37.5345827"
+        },
+        {
+            "line": "6호선",
+            "stationName": "이태원",
+            "dong": "용산구 이태원동",
+            "streetAddress": "서울특별시 용산구 이태원로 177",
+            "latitude": "126.9937216",
+            "longitude": "37.5345411"
+        },
+        {
+            "line": "6호선",
+            "stationName": "한강진",
+            "dong": "용산구 한남동",
+            "streetAddress": "서울특별시 용산구 이태원로 287",
+            "latitude": "127.0017483",
+            "longitude": "37.539831"
+        },
+        {
+            "line": "6호선",
+            "stationName": "버티고개",
+            "dong": "중구 신당동",
+            "streetAddress": "서울특별시 중구 다산로 38",
+            "latitude": "127.007085",
+            "longitude": "37.5481391"
+        },
+        {
+            "line": "6호선",
+            "stationName": "약수",
+            "dong": "중구 신당동",
+            "streetAddress": "서울특별시 중구 다산로 115",
+            "latitude": "127.0101205",
+            "longitude": "37.5547147"
+        },
+        {
+            "line": "6호선",
+            "stationName": "청구",
+            "dong": "중구 신당동",
+            "streetAddress": "서울특별시 중구 청구로 77",
+            "latitude": "127.013806",
+            "longitude": "37.5602147"
+        },
+        {
+            "line": "6호선",
+            "stationName": "신당",
+            "dong": "중구 흥인동",
+            "streetAddress": "서울특별시 중구 다산로 260",
+            "latitude": "127.0161535",
+            "longitude": "37.5660688"
+        },
+        {
+            "line": "6호선",
+            "stationName": "동묘앞",
+            "dong": "종로구 숭인동",
+            "streetAddress": "서울특별시 종로구 지봉로 24",
+            "latitude": "127.0159796",
+            "longitude": "37.5723499"
+        },
+        {
+            "line": "6호선",
+            "stationName": "창신",
+            "dong": "종로구 창신동",
+            "streetAddress": "서울특별시 종로구 지봉로 112",
+            "latitude": "127.0152112",
+            "longitude": "37.5793692"
+        },
+        {
+            "line": "6호선",
+            "stationName": "보문",
+            "dong": "성북구 보문동2가",
+            "streetAddress": "서울특별시 성북구 보문로 116",
+            "latitude": "127.0194953",
+            "longitude": "37.5853398"
+        },
+        {
+            "line": "6호선",
+            "stationName": "안암",
+            "dong": "성북구 안암동5가",
+            "streetAddress": "서울특별시 성북구 인촌로 89",
+            "latitude": "127.0291551",
+            "longitude": "37.5863043"
+        },
+        {
+            "line": "6호선",
+            "stationName": "고려대",
+            "dong": "성북구 종암동",
+            "streetAddress": "서울특별시 성북구 종암로 1",
+            "latitude": "127.0362849",
+            "longitude": "37.5904058"
+        },
+        {
+            "line": "6호선",
+            "stationName": "월곡",
+            "dong": "성북구 하월곡동",
+            "streetAddress": "서울특별시 성북구 월곡로 107",
+            "latitude": "127.0411848",
+            "longitude": "37.6019332"
+        },
+        {
+            "line": "6호선",
+            "stationName": "상월곡",
+            "dong": "성북구 상월곡동",
+            "streetAddress": "서울특별시 성북구 화랑로 157",
+            "latitude": "127.0483266",
+            "longitude": "37.6066079"
+        },
+        {
+            "line": "6호선",
+            "stationName": "돌곶이",
+            "dong": "성북구 석관동",
+            "streetAddress": "서울특별시 성북구 화랑로 243",
+            "latitude": "127.0564252",
+            "longitude": "37.6105008"
+        },
+        {
+            "line": "6호선",
+            "stationName": "석계",
+            "dong": "노원구 월계동",
+            "streetAddress": "서울특별시 노원구 화랑로 347-1",
+            "latitude": "127.0661184",
+            "longitude": "37.6148559"
+        },
+        {
+            "line": "6호선",
+            "stationName": "태릉입구",
+            "dong": "노원구 공릉동",
+            "streetAddress": "서울특별시 노원구 동일로 992-1",
+            "latitude": "127.0753683",
+            "longitude": "37.6173467"
+        },
+        {
+            "line": "6호선",
+            "stationName": "화랑대",
+            "dong": "노원구 공릉동",
+            "streetAddress": "서울특별시 노원구 화랑로 510",
+            "latitude": "127.0837446",
+            "longitude": "37.6198329"
+        },
+        {
+            "line": "6호선",
+            "stationName": "봉화산",
+            "dong": "중랑구 신내동",
+            "streetAddress": "서울특별시 중랑구 신내로 232",
+            "latitude": "127.0907581",
+            "longitude": "37.6173794"
+        },
+        {
+            "line": "7호선",
+            "stationName": "도봉산",
+            "dong": "도봉구 도봉동",
+            "streetAddress": "서울특별시 도봉구 도봉로 964-40",
+            "latitude": "127.0465288",
+            "longitude": "37.6890269"
+        },
+        {
+            "line": "7호선",
+            "stationName": "수락산",
+            "dong": "노원구 상계동",
+            "streetAddress": "서울특별시 노원구 동일로 1662",
+            "latitude": "127.0553746",
+            "longitude": "37.6778893"
+        },
+        {
+            "line": "7호선",
+            "stationName": "마들",
+            "dong": "노원구 상계동",
+            "streetAddress": "서울특별시 노원구 동일로 1530-1",
+            "latitude": "127.0576877",
+            "longitude": "37.6653826"
+        },
+        {
+            "line": "7호선",
+            "stationName": "노원",
+            "dong": "노원구 상계동",
+            "streetAddress": "서울특별시 노원구 동일로 1409",
+            "latitude": "127.0605175",
+            "longitude": "37.6546992"
+        },
+        {
+            "line": "7호선",
+            "stationName": "중계",
+            "dong": "노원구 중계동",
+            "streetAddress": "서울특별시 노원구 동일로 1308-1",
+            "latitude": "127.0642467",
+            "longitude": "37.6451447"
+        },
+        {
+            "line": "7호선",
+            "stationName": "하계",
+            "dong": "노원구 하계동",
+            "streetAddress": "서울특별시 노원구 동일로 1196",
+            "latitude": "127.0679885",
+            "longitude": "37.6365692"
+        },
+        {
+            "line": "7호선",
+            "stationName": "공릉",
+            "dong": "노원구 공릉동",
+            "streetAddress": "서울특별시 노원구 동일로 1074",
+            "latitude": "127.0730053",
+            "longitude": "37.6257945"
+        },
+        {
+            "line": "7호선",
+            "stationName": "태릉입구",
+            "dong": "노원구 공릉동",
+            "streetAddress": "서울특별시 노원구 동일로 992-1",
+            "latitude": "127.0753683",
+            "longitude": "37.6185038"
+        },
+        {
+            "line": "7호선",
+            "stationName": "먹골",
+            "dong": "중랑구 묵동",
+            "streetAddress": "서울특별시 중랑구 동일로 901",
+            "latitude": "127.0777647",
+            "longitude": "37.6107877"
+        },
+        {
+            "line": "7호선",
+            "stationName": "중화",
+            "dong": "중랑구 중화동",
+            "streetAddress": "서울특별시 중랑구 동일로 797",
+            "latitude": "127.0794692",
+            "longitude": "37.6025797"
+        },
+        {
+            "line": "7호선",
+            "stationName": "상봉",
+            "dong": "중랑구 상봉동",
+            "streetAddress": "서울특별시 중랑구 망우로 297",
+            "latitude": "127.0857201",
+            "longitude": "37.5956271"
+        },
+        {
+            "line": "7호선",
+            "stationName": "면목",
+            "dong": "중랑구 면목동",
+            "streetAddress": "서울특별시 중랑구 면목로 407",
+            "latitude": "127.0875678",
+            "longitude": "37.5887531"
+        },
+        {
+            "line": "7호선",
+            "stationName": "사가정",
+            "dong": "중랑구 면목동",
+            "streetAddress": "서울특별시 중랑구 사가정로 393",
+            "latitude": "127.088439",
+            "longitude": "37.5809733"
+        },
+        {
+            "line": "7호선",
+            "stationName": "용마산",
+            "dong": "중랑구 면목동",
+            "streetAddress": "서울특별시 중랑구 용마산로 227",
+            "latitude": "127.0870381",
+            "longitude": "37.5738011"
+        },
+        {
+            "line": "7호선",
+            "stationName": "중곡",
+            "dong": "광진구 중곡동",
+            "streetAddress": "서울특별시 광진구 능동로 417",
+            "latitude": "127.0840725",
+            "longitude": "37.5655429"
+        },
+        {
+            "line": "7호선",
+            "stationName": "군자",
+            "dong": "광진구 중곡동",
+            "streetAddress": "서울특별시 광진구 천호대로 550",
+            "latitude": "127.0790173",
+            "longitude": "37.557453"
+        },
+        {
+            "line": "7호선",
+            "stationName": "어린이대공원",
+            "dong": "광진구 능동",
+            "streetAddress": "서울특별시 광진구 능동로 210",
+            "latitude": "127.0745499",
+            "longitude": "37.5479129"
+        },
+        {
+            "line": "7호선",
+            "stationName": "건대입구",
+            "dong": "광진구 화양동",
+            "streetAddress": "서울특별시 광진구 능동로 110",
+            "latitude": "127.0714121",
+            "longitude": "37.5407981"
+        },
+        {
+            "line": "7호선",
+            "stationName": "뚝섬유원지",
+            "dong": "광진구 자양동",
+            "streetAddress": "서울특별시 광진구 능동로 10",
+            "latitude": "127.0667177",
+            "longitude": "37.5315528"
+        },
+        {
+            "line": "7호선",
+            "stationName": "청담",
+            "dong": "강남구 청담동",
+            "streetAddress": "서울특별시 강남구 학동로 508",
+            "latitude": "127.0520384",
+            "longitude": "37.5194904"
+        },
+        {
+            "line": "7호선",
+            "stationName": "강남구청",
+            "dong": "강남구 논현동",
+            "streetAddress": "서울특별시 강남구 학동로 346",
+            "latitude": "127.0413014",
+            "longitude": "37.5171727"
+        },
+        {
+            "line": "7호선",
+            "stationName": "학동",
+            "dong": "강남구 논현동",
+            "streetAddress": "서울특별시 강남구 학동로 180",
+            "latitude": "127.0314638",
+            "longitude": "37.5142532"
+        },
+        {
+            "line": "7호선",
+            "stationName": "논현",
+            "dong": "강남구 논현동",
+            "streetAddress": "서울특별시 강남구 학동로 102",
+            "latitude": "127.0216578",
+            "longitude": "37.511129"
+        },
+        {
+            "line": "7호선",
+            "stationName": "반포",
+            "dong": "서초구 잠원동",
+            "streetAddress": "서울특별시 서초구 신반포로 241",
+            "latitude": "127.011497",
+            "longitude": "37.5082219"
+        },
+        {
+            "line": "7호선",
+            "stationName": "고속터미널",
+            "dong": "서초구 잠원동",
+            "streetAddress": "서울특별시 서초구 신반포로 188",
+            "latitude": "127.0049482",
+            "longitude": "37.5034948"
+        },
+        {
+            "line": "7호선",
+            "stationName": "내방",
+            "dong": "서초구 방배동",
+            "streetAddress": "서울특별시 서초구 서초대로 103",
+            "latitude": "126.9931903",
+            "longitude": "37.4876043"
+        },
+        {
+            "line": "7호선",
+            "stationName": "이수",
+            "dong": "동작구 사당동",
+            "streetAddress": "서울특별시 동작구 사당로 310",
+            "latitude": "126.9810218",
+            "longitude": "37.4853899"
+        },
+        {
+            "line": "7호선",
+            "stationName": "남성",
+            "dong": "동작구 사당동",
+            "streetAddress": "서울특별시 동작구 사당로 218",
+            "latitude": "126.9717061",
+            "longitude": "37.4848845"
+        },
+        {
+            "line": "7호선",
+            "stationName": "숭실대입구",
+            "dong": "동작구 상도동",
+            "streetAddress": "서울특별시 동작구 상도로 378",
+            "latitude": "126.9540603",
+            "longitude": "37.4957738"
+        },
+        {
+            "line": "7호선",
+            "stationName": "상도",
+            "dong": "동작구 상도1동",
+            "streetAddress": "서울특별시 동작구 상도로 272",
+            "latitude": "126.9477004",
+            "longitude": "37.5030818"
+        },
+        {
+            "line": "7호선",
+            "stationName": "장승배기",
+            "dong": "동작구 상도동",
+            "streetAddress": "서울특별시 동작구 상도로 188",
+            "latitude": "126.9387444",
+            "longitude": "37.5049168"
+        },
+        {
+            "line": "7호선",
+            "stationName": "신대방삼거리",
+            "dong": "동작구 대방동",
+            "streetAddress": "서울특별시 동작구 상도로 76",
+            "latitude": "126.9282229",
+            "longitude": "37.4997148"
+        },
+        {
+            "line": "7호선",
+            "stationName": "보라매",
+            "dong": "동작구 대방동",
+            "streetAddress": "서울특별시 동작구 상도로 2",
+            "latitude": "126.9204894",
+            "longitude": "37.4999381"
+        },
+        {
+            "line": "7호선",
+            "stationName": "신풍",
+            "dong": "영등포구 신길동",
+            "streetAddress": "서울특별시 영등포구 신풍로 27",
+            "latitude": "126.9098417",
+            "longitude": "37.5001394"
+        },
+        {
+            "line": "7호선",
+            "stationName": "대림",
+            "dong": "영등포구 대림동",
+            "streetAddress": "서울특별시 영등포구 도림로 137",
+            "latitude": "126.8966119",
+            "longitude": "37.4928168"
+        },
+        {
+            "line": "7호선",
+            "stationName": "남구로",
+            "dong": "구로구 구로동",
+            "streetAddress": "서울특별시 구로구 도림로 7",
+            "latitude": "126.8873411",
+            "longitude": "37.4861066"
+        },
+        {
+            "line": "7호선",
+            "stationName": "가산디지털단지",
+            "dong": "금천구 가산동",
+            "streetAddress": "서울특별시 금천구 벚꽃로 309",
+            "latitude": "126.8826247",
+            "longitude": "37.4803999"
+        },
+        {
+            "line": "7호선",
+            "stationName": "천왕",
+            "dong": "구로구 오류동",
+            "streetAddress": "서울특별시 구로구 오리로 1154",
+            "latitude": "126.8387137",
+            "longitude": "37.4867557"
+        },
+        {
+            "line": "7호선",
+            "stationName": "온수",
+            "dong": "구로구 온수동",
+            "streetAddress": "서울특별시 구로구 경인로 3길 64",
+            "latitude": "126.8233807",
+            "longitude": "37.4919758"
+        },
+        {
+            "line": "8호선",
+            "stationName": "암사",
+            "dong": "강동구 암사동",
+            "streetAddress": "서울특별시 강동구 올림픽로 776",
+            "latitude": "127.1275403",
+            "longitude": "37.5501553"
+        },
+        {
+            "line": "8호선",
+            "stationName": "천호",
+            "dong": "송파구 풍납동",
+            "streetAddress": "서울특별시 강동구 천호대로 997",
+            "latitude": "127.1233121",
+            "longitude": "37.5380076"
+        },
+        {
+            "line": "8호선",
+            "stationName": "강동구청",
+            "dong": "송파구 풍납동",
+            "streetAddress": "서울특별시 강동구 올림픽로 550",
+            "latitude": "127.120576",
+            "longitude": "37.5305161"
+        },
+        {
+            "line": "8호선",
+            "stationName": "몽촌토성",
+            "dong": "송파구 신천동",
+            "streetAddress": "서울특별시 송파구 올림픽로 383",
+            "latitude": "127.1124299",
+            "longitude": "37.5176482"
+        },
+        {
+            "line": "8호선",
+            "stationName": "잠실",
+            "dong": "송파구 잠실동",
+            "streetAddress": "서울특별시 송파구 올림픽로 305",
+            "latitude": "127.1042164",
+            "longitude": "37.5147736"
+        },
+        {
+            "line": "8호선",
+            "stationName": "석촌",
+            "dong": "송파구 석촌동",
+            "streetAddress": "서울특별시 송파구 송파대로 439",
+            "latitude": "127.1063454",
+            "longitude": "37.5055675"
+        },
+        {
+            "line": "8호선",
+            "stationName": "송파",
+            "dong": "송파구 가락동",
+            "streetAddress": "서울특별시 송파구 송파대로 354",
+            "latitude": "127.1121799",
+            "longitude": "37.499678"
+        },
+        {
+            "line": "8호선",
+            "stationName": "가락시장",
+            "dong": "송파구 가락동",
+            "streetAddress": "서울특별시 송파구 송파대로 257",
+            "latitude": "127.1184858",
+            "longitude": "37.492962"
+        },
+        {
+            "line": "8호선",
+            "stationName": "문정",
+            "dong": "송파구 문정동",
+            "streetAddress": "서울특별시 송파구 송파대로 179",
+            "latitude": "127.1222903",
+            "longitude": "37.4859777"
+        },
+        {
+            "line": "8호선",
+            "stationName": "장지",
+            "dong": "송파구 문정동",
+            "streetAddress": "서울특별시 송파구 송파대로 82",
+            "latitude": "127.1264241",
+            "longitude": "37.4786947"
+        },
+        {
+            "line": "8호선",
+            "stationName": "복정",
+            "dong": "송파구 장지동",
+            "streetAddress": "서울특별시 송파구 송파대로 6",
+            "latitude": "127.1267713",
+            "longitude": "37.4710139"
+        },
+        {
+            "line": "9호선",
+            "stationName": "개화",
+            "dong": "강서구 개화동",
+            "streetAddress": "서울특별시 강서구 개화동로 8길 38",
+            "latitude": "126.7956685",
+            "longitude": "37.5785872"
+        },
+        {
+            "line": "9호선",
+            "stationName": "김포공항",
+            "dong": "강서구 방화동",
+            "streetAddress": "서울특별시 강서구 하늘길 77",
+            "latitude": "126.8012785",
+            "longitude": "37.5618902"
+        },
+        {
+            "line": "9호선",
+            "stationName": "공항시장",
+            "dong": "강서구 방화동",
+            "streetAddress": "서울특별시 강서구 방화동로 30",
+            "latitude": "126.8104923",
+            "longitude": "37.563793"
+        },
+        {
+            "line": "9호선",
+            "stationName": "신방화",
+            "dong": "강서구 방화동",
+            "streetAddress": "서울특별시 강서구 방화대로 301",
+            "latitude": "126.8165246",
+            "longitude": "37.5674855"
+        },
+        {
+            "line": "9호선",
+            "stationName": "마곡나루",
+            "dong": "강서구 마곡동",
+            "streetAddress": "서울특별시 강서구 마곡중앙5로 2",
+            "latitude": "126.8275182",
+            "longitude": "37.5667697"
+        },
+        {
+            "line": "9호선",
+            "stationName": "양천향교",
+            "dong": "강서구 마곡동",
+            "streetAddress": "서울특별시 강서구 양천로 341",
+            "latitude": "126.8408178",
+            "longitude": "37.568116"
+        },
+        {
+            "line": "9호선",
+            "stationName": "가양",
+            "dong": "강서구 가양동",
+            "streetAddress": "서울특별시 강서구 양천로 485",
+            "latitude": "126.8543882",
+            "longitude": "37.5615634"
+        },
+        {
+            "line": "9호선",
+            "stationName": "증미",
+            "dong": "강서구 등촌동",
+            "streetAddress": "서울특별시 강서구 양천로 560",
+            "latitude": "126.8612469",
+            "longitude": "37.5581395"
+        },
+        {
+            "line": "9호선",
+            "stationName": "등촌",
+            "dong": "강서구 등촌동",
+            "streetAddress": "서울특별시 강서구 공항대로 529",
+            "latitude": "126.8649501",
+            "longitude": "37.550692"
+        },
+        {
+            "line": "9호선",
+            "stationName": "염창",
+            "dong": "강서구 염창동",
+            "streetAddress": "서울특별시 강서구 공항대로 631",
+            "latitude": "126.875005",
+            "longitude": "37.5469747"
+        },
+        {
+            "line": "9호선",
+            "stationName": "신목동",
+            "dong": "양천구 목동",
+            "streetAddress": "서울특별시 양천구 목동중앙로 217",
+            "latitude": "126.8827535",
+            "longitude": "37.5442771"
+        },
+        {
+            "line": "9호선",
+            "stationName": "선유도",
+            "dong": "영등포구 양평동5가",
+            "streetAddress": "서울특별시 영등포구 양평로 124",
+            "latitude": "126.8934204",
+            "longitude": "37.5378653"
+        },
+        {
+            "line": "9호선",
+            "stationName": "당산",
+            "dong": "영등포구 당산동5가",
+            "streetAddress": "서울특별시 영등포구 양평로 40",
+            "latitude": "126.9021715",
+            "longitude": "37.5338782"
+        },
+        {
+            "line": "9호선",
+            "stationName": "국회의사당",
+            "dong": "영등포구 여의도동",
+            "streetAddress": "서울특별시 영등포구 국회대로 758",
+            "latitude": "126.9178856",
+            "longitude": "37.5281375"
+        },
+        {
+            "line": "9호선",
+            "stationName": "여의도",
+            "dong": "영등포구 여의도동",
+            "streetAddress": "서울특별시 영등포구 의사당대로 101",
+            "latitude": "126.9239689",
+            "longitude": "37.5218982"
+        },
+        {
+            "line": "9호선",
+            "stationName": "샛강",
+            "dong": "영등포구 여의도동",
+            "streetAddress": "서울특별시 영등포구 의사당대로 166",
+            "latitude": "126.9290796",
+            "longitude": "37.5167465"
+        },
+        {
+            "line": "9호선",
+            "stationName": "노량진",
+            "dong": "동작구 노량진동",
+            "streetAddress": "서울특별시 동작구 노량진로 130",
+            "latitude": "126.9408265",
+            "longitude": "37.5136153"
+        },
+        {
+            "line": "9호선",
+            "stationName": "노들",
+            "dong": "동작구 본동",
+            "streetAddress": "서울특별시 동작구 노량진로 238",
+            "latitude": "126.9530641",
+            "longitude": "37.5129044"
+        },
+        {
+            "line": "9호선",
+            "stationName": "흑석",
+            "dong": "동작구 흑석동",
+            "streetAddress": "서울특별시 동작구 현충로 90",
+            "latitude": "126.9635701",
+            "longitude": "37.5091762"
+        },
+        {
+            "line": "9호선",
+            "stationName": "동작",
+            "dong": "동작구 동작동",
+            "streetAddress": "서울특별시 동작구 현충로 220",
+            "latitude": "126.9779372",
+            "longitude": "37.503199"
+        },
+        {
+            "line": "9호선",
+            "stationName": "구반포",
+            "dong": "서초구 반포동",
+            "streetAddress": "서울특별시 서초구 신반포로 17",
+            "latitude": "126.9873749",
+            "longitude": "37.50144"
+        },
+        {
+            "line": "9호선",
+            "stationName": "신반포",
+            "dong": "서초구 반포동",
+            "streetAddress": "서울특별시 서초구 신반포로 105",
+            "latitude": "126.9958989",
+            "longitude": "37.5034961"
+        },
+        {
+            "line": "9호선",
+            "stationName": "고속터미널",
+            "dong": "서초구 잠원동",
+            "streetAddress": "서울특별시 서초구 신반포로 188",
+            "latitude": "127.0049482",
+            "longitude": "37.5060134"
+        },
+        {
+            "line": "9호선",
+            "stationName": "사평",
+            "dong": "서초구 반포동",
+            "streetAddress": "서울특별시 서초구 사평대로 285",
+            "latitude": "127.0154343",
+            "longitude": "37.5044561"
+        },
+        {
+            "line": "9호선",
+            "stationName": "신논현",
+            "dong": "서초구 반포동",
+            "streetAddress": "서울특별시 강남구 봉은사로 102",
+            "latitude": "127.0250313",
+            "longitude": "37.5047607"
+        },
+        {
+            "line": "9호선",
+            "stationName": "언주",
+            "dong": "강남구 논현동",
+            "streetAddress": "서울특별시 강남구 봉은사로 201",
+            "latitude": "127.0342847",
+            "longitude": "37.5073235"
+        },
+        {
+            "line": "9호선",
+            "stationName": "선정릉",
+            "dong": "강남구 논현동",
+            "streetAddress": "서울특별시 강남구 선릉로 580",
+            "latitude": "127.0436411",
+            "longitude": "37.5101377"
+        },
+        {
+            "line": "9호선",
+            "stationName": "삼성중앙",
+            "dong": "강남구 삼성동",
+            "streetAddress": "서울특별시 강남구 봉은사로 501",
+            "latitude": "127.0527056",
+            "longitude": "37.5129462"
+        },
+        {
+            "line": "9호선",
+            "stationName": "봉은사",
+            "dong": "강남구 삼성동",
+            "streetAddress": "서울특별시 강남구 봉은사로 601",
+            "latitude": "127.0608919",
+            "longitude": "37.5142504"
+        },
+        {
+            "line": "9호선",
+            "stationName": "종합운동장",
+            "dong": "송파구 잠실동",
+            "streetAddress": "서울특별시 송파구 올림픽로 23",
+            "latitude": "127.0733561",
+            "longitude": "37.5114034"
+        },
+        {
+            "line": "9호선",
+            "stationName": "삼전",
+            "dong": "송파구 잠실동",
+            "streetAddress": "서울특별시 송파구 백제고분로 187",
+            "latitude": "127.0876288",
+            "longitude": "37.504515"
+        },
+        {
+            "line": "9호선",
+            "stationName": "석촌고분",
+            "dong": "송파구 삼전동",
+            "streetAddress": "서울특별시 송파구 삼학사로 53",
+            "latitude": "127.096637",
+            "longitude": "37.5024833"
+        },
+        {
+            "line": "9호선",
+            "stationName": "석촌",
+            "dong": "송파구 석촌동",
+            "streetAddress": "서울특별시 송파구 송파대로 439",
+            "latitude": "127.1063454",
+            "longitude": "37.5051646"
+        },
+        {
+            "line": "9호선",
+            "stationName": "송파나루",
+            "dong": "송파구 송파동",
+            "streetAddress": "서울특별시 송파구 백제고분로 446",
+            "latitude": "127.1123939",
+            "longitude": "37.5102755"
+        },
+        {
+            "line": "9호선",
+            "stationName": "한성백제",
+            "dong": "송파구 방이동",
+            "streetAddress": "서울특별시 송파구 위례성대로 51",
+            "latitude": "127.1181845",
+            "longitude": "37.5164554"
+        },
+        {
+            "line": "9호선",
+            "stationName": "올림픽공원",
+            "dong": "송파구 방이동",
+            "streetAddress": "서울특별시 송파구 양재대로 1233",
+            "latitude": "127.1306002",
+            "longitude": "37.5162034"
+        },
+        {
+            "line": "9호선",
+            "stationName": "둔촌오륜",
+            "dong": "송파구 방이동",
+            "streetAddress": "서울특별시 송파구 강동대로 327",
+            "latitude": "127.1387689",
+            "longitude": "37.5192635"
+        },
+        {
+            "line": "9호선",
+            "stationName": "중앙보훈병원",
+            "dong": "강동구 둔촌동",
+            "streetAddress": "서울특별시 강동구 동남로",
+            "latitude": "127.1550312",
+            "longitude": "37.5288392"
+        },
+        {
+            "line": "분당선",
+            "stationName": "왕십리",
+            "dong": "성동구 행당동",
+            "streetAddress": "서울특별시 성동구 왕십리광장로 17",
+            "latitude": "127.038469",
+            "longitude": "37.5608351"
+        },
+        {
+            "line": "분당선",
+            "stationName": "서울숲",
+            "dong": "성동구 성수동1가",
+            "streetAddress": "서울특별시 성동구 왕십리로 77",
+            "latitude": "127.0447069",
+            "longitude": "37.5436554"
+        },
+        {
+            "line": "분당선",
+            "stationName": "압구정로데오",
+            "dong": "강남구 압구정동",
+            "streetAddress": "서울특별시 강남구 압구정로 402",
+            "latitude": "127.0405129",
+            "longitude": "37.5273936"
+        },
+        {
+            "line": "분당선",
+            "stationName": "강남구청",
+            "dong": "강남구 논현동",
+            "streetAddress": "서울특별시 강남구 학동로 346",
+            "latitude": "127.0413014",
+            "longitude": "37.5168377"
+        },
+        {
+            "line": "분당선",
+            "stationName": "선정릉",
+            "dong": "강남구 논현동",
+            "streetAddress": "서울특별시 강남구 선릉로 580",
+            "latitude": "127.0436411",
+            "longitude": "37.5109245"
+        },
+        {
+            "line": "분당선",
+            "stationName": "선릉",
+            "dong": "강남구 역삼동",
+            "streetAddress": "서울특별시 강남구 테헤란로 340",
+            "latitude": "127.0489425",
+            "longitude": "37.5049146"
+        },
+        {
+            "line": "분당선",
+            "stationName": "한티",
+            "dong": "강남구 역삼동",
+            "streetAddress": "서울특별시 강남구 선릉로 228",
+            "latitude": "127.0528823",
+            "longitude": "37.4962159"
+        },
+        {
+            "line": "분당선",
+            "stationName": "도곡",
+            "dong": "강남구 도곡동",
+            "streetAddress": "서울특별시 강남구 남부순환로 2814",
+            "latitude": "127.0553234",
+            "longitude": "37.4913052"
+        },
+        {
+            "line": "분당선",
+            "stationName": "구룡",
+            "dong": "강남구 개포동",
+            "streetAddress": "서울특별시 강남구 개포로 403",
+            "latitude": "127.0592656",
+            "longitude": "37.4869934"
+        },
+        {
+            "line": "분당선",
+            "stationName": "개포동",
+            "dong": "강남구 개포동",
+            "streetAddress": "서울특별시 강남구 개포로 420",
+            "latitude": "127.0664749",
+            "longitude": "37.4891746"
+        },
+        {
+            "line": "분당선",
+            "stationName": "대모산입구",
+            "dong": "강남구 개포동",
+            "streetAddress": "서울특별시 강남구 개포로 522",
+            "latitude": "127.0731686",
+            "longitude": "37.4913547"
+        },
+        {
+            "line": "분당선",
+            "stationName": "수서",
+            "dong": "강남구 수서동",
+            "streetAddress": "서울특별시 강남구 광평로 270",
+            "latitude": "127.1018592",
+            "longitude": "37.48768"
+        },
+        {
+            "line": "분당선",
+            "stationName": "복정",
+            "dong": "송파구 장지동",
+            "streetAddress": "서울특별시 송파구 송파대로 6",
+            "latitude": "127.1267713",
+            "longitude": "37.4697697"
+        },
+        {
+            "line": "신분당선",
+            "stationName": "강남",
+            "dong": "강남구 역삼동",
+            "streetAddress": "서울특별시 강남구 강남대로 396",
+            "latitude": "127.0283079",
+            "longitude": "37.4964196"
+        },
+        {
+            "line": "신분당선",
+            "stationName": "양재",
+            "dong": "강남구 도곡동",
+            "streetAddress": "서울특별시 서초구 남부순환로 2585",
+            "latitude": "127.0345442",
+            "longitude": "37.4836714"
+        },
+        {
+            "line": "신분당선",
+            "stationName": "양재시민의숲",
+            "dong": "서초구 양재동",
+            "streetAddress": "서울특별시 서초구 매헌로 116",
+            "latitude": "127.0383258",
+            "longitude": "37.4700185"
+        },
+        {
+            "line": "신분당선",
+            "stationName": "청계산입구",
+            "dong": "서초구 신원동",
+            "streetAddress": "서울특별시 서초구 청계산로 179",
+            "latitude": "127.054632",
+            "longitude": "37.4482234"
+        }
+    ]
+}
