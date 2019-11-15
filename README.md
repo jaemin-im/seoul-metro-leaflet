@@ -27,3 +27,7 @@ Leaflet을 Vue.js에 wrapper 없이 그대로 구현시킨 코드를 찾는 것�
 
 미처 시간이 없어 검색 기능과 클러스터를 구현하지 못하였지만, 프로젝트를
 유지하여 이후에 남는 시간을 쪼개 계속 구현해보고 싶은 프로젝트이기도 합니다.
+
+## 아이콘 출처
+
+<div>아이콘 제작자 <a href="https://www.flaticon.com/kr/authors/roundicons" title="Roundicons">Roundicons</a> from <a href="https://www.flaticon.com/kr/" title="Flaticon">www.flaticon.com</a></div>
