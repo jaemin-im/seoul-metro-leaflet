@@ -13,7 +13,9 @@ dm-office 프로젝트에 있던 Leaflet 구현 코드를 참고하여 기본 �
 쌓았고, 서울 지하철역 위치가 담겨있던 엑셀 파일을 JSON으로 변환하여
 프로젝트에서 그대로 쓸 수 있도록 하였습니다. 그리고, 각 역을 표시할
 커스텀 아이콘을 flaticon에서 직접 편집하여 로컬에서 사용하였고,
-popup을 이용하여 마커를 클릭할 시 역명이 나오게 하도록 하였습니다.
+popup을 이용하여 마커를 클릭할 시 역명이 나오게 하도록 하였습니다.'
+또한, 검색기능을 구현하기 위한 검색 바를 구현하였습니다. 추후
+Vuetify의 검색 바 컴포넌트로 변경할 예정입니다.
 
 ## 어려웠던 점
 
@@ -25,3 +27,7 @@ Leaflet을 Vue.js에 wrapper 없이 그대로 구현시킨 코드를 찾는 것�
 
 미처 시간이 없어 검색 기능과 클러스터를 구현하지 못하였지만, 프로젝트를
 유지하여 이후에 남는 시간을 쪼개 계속 구현해보고 싶은 프로젝트이기도 합니다.
+
+## 아이콘 출처
+
+<div>아이콘 제작자 <a href="https://www.flaticon.com/kr/authors/roundicons" title="Roundicons">Roundicons</a> from <a href="https://www.flaticon.com/kr/" title="Flaticon">www.flaticon.com</a></div>
