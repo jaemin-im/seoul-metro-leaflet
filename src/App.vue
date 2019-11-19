@@ -1,26 +1,18 @@
 <template>
   <div id="app">
-    <Main />
+    <Home />
   </div>
 </template>
 
 <script>
-import Main from "./components/Main.vue";
+import Home from "./views/Home";
 
 export default {
   name: "app",
   components: {
-    Main
+    Home
   }
 };
 </script>
 
-<style>
-body {
-  margin: 0;
-}
-
-#app {
-  margin-top: 80px;
-}
-</style>
+<style></style>
